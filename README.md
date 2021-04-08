@@ -1,3 +1,3 @@
 # Trillo
 
-## You can see live preview of Trillo on this [link](https://vigilant-bell-ebea8d.netlify.app/).
+## You can see live preview of Trillo on this [link](https://flamboyant-swanson-17e77a.netlify.app/).
